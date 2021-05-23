@@ -1,5 +1,8 @@
 # Python GUI for Servo control
 # Specifically written for and in lieu of PiBorg's vesion for the UltraBorg Servo and Sensor Board
+# This is a small program for testing PiBorgs UltrabBorg Servo and Ultrasonic Sensor board.
+# When run it creates a GUI with 4 sliders that can be used to operate Servos connected to the UltraBorg.
+# There is currently no code to test Ultrasonic Senors 
 # 10 Feb 2021
 
 #import libraries
